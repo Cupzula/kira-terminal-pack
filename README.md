@@ -2,7 +2,7 @@
 
 [![KIRA CI](https://github.com/Cupzula/kira-terminal-pack/actions/workflows/ci.yml/badge.svg)](https://github.com/Cupzula/kira-terminal-pack/actions)
 
-KIRA is your sass-powered terminal companion for home labs, dev workstations, and sysadmin consoles. With built-in greetings, smart CLI commands, and auto-updating from GitHub, she's your new command-line bestie.
+KIRA is a terminal companion for home labs, dev workstations, and sysadmin consoles. With built-in greetings, smart CLI commands, and auto-updating from GitHub, a  command-line assistant.
 
 ---
 
@@ -81,6 +81,6 @@ brew install fortune cowsay
 
 ---
 
-## 🖤 Built with sass by Cupzula
+## Built  by Cupzula
 
-> "You keep writin' scripts like that and I’m gonna symlink my /etc/hostname to your GitHub handle."
+> 
